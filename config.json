@@ -1,0 +1,17 @@
+{
+    "app": {
+        "name": "Helper"
+    },
+    "applications": [{
+        "name": "Remove White From Image",
+        "input_type": "file",
+        "path": "C:\\test"
+    }, {
+        "name": "Convert WEBP to PNG",
+        "input_type": "file",
+        "path": "C:\\test"
+    }],
+    "test": {
+        "cool": true
+    }
+}

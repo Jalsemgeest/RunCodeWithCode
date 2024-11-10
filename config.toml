@@ -1,0 +1,15 @@
+[app]
+name = "Helper"
+
+[[applications]]
+name = "Remove White From Image"
+input_type = "file"
+path = "C:\\test"
+
+[[applications]]
+name = "Convert WEBP to PNG"
+input_type = "file"
+path = "C:\\test"
+
+[[applications.test]]
+cool = true

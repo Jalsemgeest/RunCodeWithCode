@@ -1,0 +1,14 @@
+app:
+  name: Helper
+applications:
+- input_type: File
+  name: Webp to Png YAY
+  path: C:/Users/cptli/Documents/dev/HelpfulTools/helper-packages/webp-to-png.py
+- input_type: File
+  name: Remove Whitespace
+  path: C:/Users/cptli/Documents/dev/HelpfulTools/helper-packages/make-transparent.py
+- input_type: String
+  name: YT Downloader
+  path: C:/Users/cptli/Documents/dev/HelpfulTools/helper-packages/yt-downloader.py
+test:
+  cool: true
